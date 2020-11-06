@@ -35,34 +35,25 @@ h1.counting {
   display: inline-block;
 }
 
-.letsgo-btn {
-  background-color: #714CF2;
-  border-radius: 8px;
-  color: white;
-  cursor: pointer;
-  display: inline-block;
+.go-button {
+	background-color: #7823e8;
+	border-radius: 42px;
+	display: inline-block;
+	cursor: pointer;
+  color: #ffffff;
   font-family: "Luckiest Guy", cursive;
-  font-size: 2em;
-  height: 60px;
-  padding: 14px 20px;
-  text-align: center;
-  text-decoration: none;
-  /* text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0, 0, 0, 1),
-    0.05em 0.005em 0 rgba(0, 0, 0, 1), 0em 0.08em 0 rgba(0, 0, 0, 1),
-    0.05em 0.08em 0 rgba(0, 0, 0, 1), 0px -0.03em 0 rgba(0, 0, 0, 1),
-    -0.03em -0.03em 0 rgba(0, 0, 0, 1), -0.03em 0.08em 0 rgba(0, 0, 0, 1), -0.03em 0 0 rgba(0, 0, 0, 1); */
-  vertical-align: middle;
-  width: 200px;
+	font-size: 24px;
+	padding: 20px 41px 15px;
+	text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+  border: none;
 }
-
-.letsgo-btn:active {
-  background-color: #7E5CF4;
-  outline: 1px solid red;
-  outline-offset: -19px;
+.go-button:hover {
+	background-color:#9133de;
 }
-
-.letsgo-btn:hover {
-  background-color: #7E5CF4;
+.go-button:active {
+	position:relative;
+	top:1px;
 }
 
 @keyframes bop {
