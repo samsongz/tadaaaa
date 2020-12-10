@@ -19,10 +19,10 @@ function Party({ isParty }) {
     }
   }, [isParty, playCrowd, playFireworks, playHorn]);
 
-  return (isParty && <h1>yay!</h1>);
+  return (isParty && <div><h1>yay!</h1><h1>we did it!</h1></div>);
 }
 function App() {
-  const [seconds, setSeconds] = useState(5);
+  const [seconds, setSeconds] = useState(10);
   const [ready, setReady] = useState(false);
   const [playTick] = useSound(ticktock, { volume: 0.25 });
   const [playPop] = useSound(pop, { volume: 0.25});
