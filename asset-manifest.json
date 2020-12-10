@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tadaaaa/static/css/main.c2ff1013.chunk.css",
+    "main.js": "/tadaaaa/static/js/main.45a5b6e6.chunk.js",
+    "main.js.map": "/tadaaaa/static/js/main.45a5b6e6.chunk.js.map",
+    "runtime-main.js": "/tadaaaa/static/js/runtime-main.e5a4a7de.js",
+    "runtime-main.js.map": "/tadaaaa/static/js/runtime-main.e5a4a7de.js.map",
+    "static/js/2.f0bf887e.chunk.js": "/tadaaaa/static/js/2.f0bf887e.chunk.js",
+    "static/js/2.f0bf887e.chunk.js.map": "/tadaaaa/static/js/2.f0bf887e.chunk.js.map",
+    "static/js/3.1b544ca5.chunk.js": "/tadaaaa/static/js/3.1b544ca5.chunk.js",
+    "static/js/3.1b544ca5.chunk.js.map": "/tadaaaa/static/js/3.1b544ca5.chunk.js.map",
+    "index.html": "/tadaaaa/index.html",
+    "precache-manifest.81f30fe9c3560a2367970ab97f9587d0.js": "/tadaaaa/precache-manifest.81f30fe9c3560a2367970ab97f9587d0.js",
+    "service-worker.js": "/tadaaaa/service-worker.js",
+    "static/css/main.c2ff1013.chunk.css.map": "/tadaaaa/static/css/main.c2ff1013.chunk.css.map",
+    "static/js/2.f0bf887e.chunk.js.LICENSE.txt": "/tadaaaa/static/js/2.f0bf887e.chunk.js.LICENSE.txt",
+    "static/js/3.1b544ca5.chunk.js.LICENSE.txt": "/tadaaaa/static/js/3.1b544ca5.chunk.js.LICENSE.txt",
+    "static/media/crowd.mp3": "/tadaaaa/static/media/crowd.03113ce8.mp3",
+    "static/media/fireworks.mp3": "/tadaaaa/static/media/fireworks.a396a739.mp3",
+    "static/media/horn.mp3": "/tadaaaa/static/media/horn.20e15e0f.mp3",
+    "static/media/pop.mp3": "/tadaaaa/static/media/pop.73ecaaf0.mp3",
+    "static/media/ticktock.mp3": "/tadaaaa/static/media/ticktock.b685cef5.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5a4a7de.js",
+    "static/js/2.f0bf887e.chunk.js",
+    "static/css/main.c2ff1013.chunk.css",
+    "static/js/main.45a5b6e6.chunk.js"
+  ]
+}
